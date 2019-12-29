@@ -9,6 +9,14 @@ body {
     background-repeat:
     background-size: 1370px 667px;
   }
+
+  .newgif {
+    background-image: url(images/giphy.gif);
+    background-repeat: no-repeat;
+    background-size: 1370px 667px;
+  }
+
+
   
  
 
